@@ -1,0 +1,36 @@
+.background {
+    background-color: rgba(5, 5, 62, 0.825);
+}
+
+.background-light {
+    background-color: rgb(49, 49, 96);
+}
+
+.background-dark {
+    background-color: rgb(27, 27, 73);
+}
+
+.greenyellow-text {
+    color: greenyellow;
+}
+
+.yellow-text {
+    color: rgb(255, 202, 44);
+}
+
+.green-text {
+    color: rgb(21, 115, 71);
+}
+.white-text {
+    color: white;
+}
+
+.input {
+    color: white;
+    background-color: rgb(49, 49, 96);
+    height: 2.5em;
+    border-radius: 8px;
+    border: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
